@@ -1,1 +1,2 @@
-# API1
+# API
+Application programming interface
