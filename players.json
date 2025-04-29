@@ -6,6 +6,7 @@
     "role": "Batsman",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm medium",
+    "image" : "https://raw.githubusercontent.com/DakshGarg1311/API/refs/heads/main/images/Virat_Kohli.avif",
     "matches": {
       "test": 113,
       "odi": 292,
