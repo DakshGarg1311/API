@@ -6,7 +6,7 @@
     "role": "Batsman",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm medium",
-    "image" : "https://documents.bcci.tv/resizedimageskirti/164_compress.png",
+    "image": "https://documents.bcci.tv/resizedimageskirti/164_compress.png",
     "matches": {
       "test": 113,
       "odi": 292,
@@ -53,6 +53,7 @@
     "role": "Batsman/Captain",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm off break",
+    "image": "https://documents.bcci.tv/resizedimageskirti/107_compress.png",
     "matches": {
       "test": 58,
       "odi": 262,
@@ -99,6 +100,7 @@
     "role": "Bowler",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm fast",
+    "image": "https://documents.bcci.tv/resizedimageskirti/1124_compress.png",
     "matches": {
       "test": 38,
       "odi": 85,
@@ -150,6 +152,7 @@
     "role": "All-rounder",
     "battingStyle": "Left-handed",
     "bowlingStyle": "Left-arm orthodox",
+    "image": "https://documents.bcci.tv/resizedimageskirti/9_compress.png",
     "matches": {
       "test": 70,
       "odi": 197,
@@ -196,6 +199,7 @@
     "role": "Wicketkeeper-Batsman",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm medium",
+    "image": "https://documents.bcci.tv/resizedimageskirti/1125_compress.png",
     "matches": {
       "test": 49,
       "odi": 69,
@@ -236,13 +240,13 @@
     "jerseyNumber": 1
   },
   {
-  {
-    "id": 7,
+    "id": 6,
     "name": "Hardik Pandya",
     "age": 30,
     "role": "All-rounder",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm fast-medium",
+    "image": "https://documents.bcci.tv/resizedimageskirti/2740_compress.png",
     "matches": {
       "test": 11,
       "odi": 85,
@@ -283,187 +287,181 @@
     "jerseyNumber": 33
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "Rishabh Pant",
     "age": 27,
     "role": "Wicketkeeper-Batsman",
     "battingStyle": "Left-handed",
     "bowlingStyle": "Right-arm medium",
+    "image": "https://documents.bcci.tv/resizedimageskirti/2972_compress.png",
     "matches": {
       "test": 33,
-      "odi": 33,
-      "t20i": 66
+      "odi": 32,
+      "t20i": 49
     },
     "runs": {
-      "test": 2271,
-      "odi": 897,
-      "t20i": 987
+      "test": 1831,
+      "odi": 865,
+      "t20i": 912
     },
     "highestScore": {
       "test": 159,
-      "odi": 125,
+      "odi": 85,
       "t20i": 65
     },
     "centuries": {
-      "test": 5,
-      "odi": 1,
+      "test": 2,
+      "odi": 0,
       "t20i": 0
     },
     "dismissals": {
-      "test": 132,
-      "odi": 48,
-      "t20i": 62
+      "test": 100,
+      "odi": 42,
+      "t20i": 58
     },
     "iccRanking": {
-      "test": 5,
-      "odi": 15,
-      "t20i": 19
+      "test": 22,
+      "odi": 19,
+      "t20i": 8
     },
     "debut": {
-      "test": "2018-08-18",
-      "odi": "2018-10-21",
+      "test": "2017-08-18",
+      "odi": "2017-10-21",
       "t20i": "2017-02-01"
     },
-    "homeState": "Delhi",
+    "homeState": "Uttarakhand",
     "iplTeam": "Delhi Capitals",
     "jerseyNumber": 17
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Shubman Gill",
     "age": 25,
     "role": "Batsman",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm off break",
+    "image": "https://documents.bcci.tv/resizedimageskirti/3761_compress.png",
     "matches": {
-      "test": 23,
-      "odi": 47,
-      "t20i": 19
+      "test": 15,
+      "odi": 25,
+      "t20i": 18
     },
     "runs": {
-      "test": 1164,
-      "odi": 2271,
-      "t20i": 531
+      "test": 837,
+      "odi": 1296,
+      "t20i": 496
     },
     "highestScore": {
-      "test": 128,
+      "test": 110,
       "odi": 208,
-      "t20i": 126
+      "t20i": 84
     },
     "centuries": {
       "test": 2,
-      "odi": 5,
-      "t20i": 1
-    },
-    "wickets": {
-      "test": 0,
-      "odi": 0,
+      "odi": 3,
       "t20i": 0
     },
     "iccRanking": {
-      "test": 13,
-      "odi": 3,
-      "t20i": 21
+      "test": 30,
+      "odi": 12,
+      "t20i": 7
     },
     "debut": {
-      "test": "2020-12-26",
+      "test": "2019-12-17",
       "odi": "2019-01-31",
-      "t20i": "2023-01-03"
+      "t20i": "2021-11-22"
     },
     "homeState": "Punjab",
     "iplTeam": "Gujarat Titans",
     "jerseyNumber": 77
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Mohammed Siraj",
-    "age": 30,
+    "age": 29,
     "role": "Bowler",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm fast",
+    "image": "https://documents.bcci.tv/resizedimageskirti/3840_compress.png",
     "matches": {
-      "test": 30,
-      "odi": 37,
-      "t20i": 10
+      "test": 16,
+      "odi": 41,
+      "t20i": 16
     },
     "wickets": {
-      "test": 102,
-      "odi": 67,
+      "test": 35,
+      "odi": 74,
       "t20i": 10
     },
     "bestBowling": {
-      "test": "5/60",
-      "odi": "4/32",
-      "t20i": "4/17"
+      "test": "5/73",
+      "odi": "4/29",
+      "t20i": "3/19"
     },
     "economy": {
-      "test": 3.05,
-      "odi": 4.93,
-      "t20i": 8.92
+      "test": 3.07,
+      "odi": 5.28,
+      "t20i": 7.56
     },
     "runs": {
-      "test": 210,
-      "odi": 28,
-      "t20i": 2
+      "test": 130,
+      "odi": 43,
+      "t20i": 7
     },
     "highestScore": {
-      "test": 33,
-      "odi": 16,
-      "t20i": 2
+      "test": 13,
+      "odi": 14,
+      "t20i": 6
     },
     "iccRanking": {
-      "test": 5,
-      "odi": 2,
-      "t20i": 37
+      "test": 11,
+      "odi": 7,
+      "t20i": 5
     },
     "debut": {
       "test": "2020-12-26",
-      "odi": "2021-07-18",
-      "t20i": "2022-02-06"
+      "odi": "2015-11-13",
+      "t20i": "2016-01-01"
     },
     "homeState": "Hyderabad",
     "iplTeam": "Royal Challengers Bangalore",
-    "jerseyNumber": 13
+    "jerseyNumber": 3
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "Suryakumar Yadav",
     "age": 34,
     "role": "Batsman",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm medium",
+    "image": "https://documents.bcci.tv/resizedimageskirti/1212_compress.png",
     "matches": {
       "test": 2,
-      "odi": 37,
-      "t20i": 65
+      "odi": 32,
+      "t20i": 55
     },
     "runs": {
-      "test": 24,
-      "odi": 773,
-      "t20i": 2141
+      "test": 94,
+      "odi": 884,
+      "t20i": 1450
     },
     "highestScore": {
-      "test": 14,
-      "odi": 78,
+      "test": 57,
+      "odi": 64,
       "t20i": 117
     },
     "centuries": {
       "test": 0,
-      "odi": 0,
-      "t20i": 3
-    },
-    "wickets": {
-      "test": 0,
-      "odi": 0,
-      "t20i": 0
+      "odi": 2,
+      "t20i": 1
     },
     "iccRanking": {
-      "test": 87,
-      "odi": 22,
+      "test": 55,
+      "odi": 8,
       "t20i": 1
     },
     "debut": {
-      "test": "2023-02-09",
+      "test": "2021-12-14",
       "odi": "2021-07-18",
       "t20i": "2021-03-14"
     },
@@ -472,197 +470,149 @@
     "jerseyNumber": 63
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "Shreyas Iyer",
     "age": 29,
     "role": "Batsman",
     "battingStyle": "Right-handed",
-    "bowlingStyle": "Right-arm leg break",
+    "bowlingStyle": "Right-arm off break",
+    "image": "https://documents.bcci.tv/resizedimageskirti/1563_compress.png",
     "matches": {
-      "test": 14,
-      "odi": 54,
-      "t20i": 51
+      "test": 34,
+      "odi": 47,
+      "t20i": 38
     },
     "runs": {
-      "test": 811,
-      "odi": 1931,
-      "t20i": 1043
+      "test": 2362,
+      "odi": 1676,
+      "t20i": 899
     },
     "highestScore": {
       "test": 105,
-      "odi": 113,
-      "t20i": 74
+      "odi": 88,
+      "t20i": 60
     },
     "centuries": {
-      "test": 1,
+      "test": 6,
       "odi": 3,
       "t20i": 0
     },
-    "wickets": {
-      "test": 0,
-      "odi": 0,
-      "t20i": 0
-    },
     "iccRanking": {
-      "test": 26,
+      "test": 23,
       "odi": 12,
-      "t20i": 26
+      "t20i": 10
     },
     "debut": {
-      "test": "2021-11-25",
-      "odi": "2017-12-10",
-      "t20i": "2018-11-01"
+      "test": "2017-11-24",
+      "odi": "2017-12-18",
+      "t20i": "2017-03-01"
     },
-    "homeState": "Maharashtra",
+    "homeState": "Mumbai",
     "iplTeam": "Kolkata Knight Riders",
-    "jerseyNumber": 41
+    "jerseyNumber": 15
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Kuldeep Yadav",
     "age": 29,
     "role": "Bowler",
     "battingStyle": "Left-handed",
-    "bowlingStyle": "Left-arm chinaman",
+    "bowlingStyle": "Left-arm wrist spin",
+    "image": "https://documents.bcci.tv/resizedimageskirti/261_compress.png",
     "matches": {
-      "test": 11,
-      "odi": 95,
-      "t20i": 34
+      "test": 8,
+      "odi": 73,
+      "t20i": 24
     },
     "wickets": {
-      "test": 45,
-      "odi": 172,
-      "t20i": 58
+      "test": 33,
+      "odi": 143,
+      "t20i": 43
     },
     "bestBowling": {
-      "test": "6/119",
+      "test": "5/99",
       "odi": "6/25",
-      "t20i": "5/24"
+      "t20i": "3/13"
     },
     "economy": {
-      "test": 3.73,
-      "odi": 5.11,
-      "t20i": 7.23
+      "test": 3.51,
+      "odi": 4.77,
+      "t20i": 8.12
     },
     "runs": {
-      "test": 172,
-      "odi": 134,
-      "t20i": 25
+      "test": 50,
+      "odi": 94,
+      "t20i": 45
     },
     "highestScore": {
-      "test": 40,
-      "odi": 19,
-      "t20i": 14
+      "test": 26,
+      "odi": 23,
+      "t20i": 12
     },
     "iccRanking": {
-      "test": 45,
-      "odi": 3,
-      "t20i": 8
+      "test": 21,
+      "odi": 9,
+      "t20i": 6
     },
     "debut": {
       "test": "2017-03-25",
-      "odi": "2017-06-23",
-      "t20i": "2018-02-04"
+      "odi": "2014-06-21",
+      "t20i": "2016-07-09"
     },
     "homeState": "Uttar Pradesh",
     "iplTeam": "Delhi Capitals",
     "jerseyNumber": 23
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Yuzvendra Chahal",
-    "age": 34,
+    "age": 33,
     "role": "Bowler",
     "battingStyle": "Right-handed",
-    "bowlingStyle": "Right-arm leg break",
+    "bowlingStyle": "Right-arm leg spin",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/400100/400112.jpg",
     "matches": {
-      "test": 0,
-      "odi": 72,
-      "t20i": 80
+      "test": 1,
+      "odi": 73,
+      "t20i": 57
     },
     "wickets": {
-      "test": 0,
+      "test": 1,
       "odi": 121,
-      "t20i": 96
+      "t20i": 76
     },
     "bestBowling": {
-      "test": "N/A",
+      "test": "1/16",
       "odi": "6/42",
-      "t20i": "6/25"
+      "t20i": "4/21"
     },
     "economy": {
-      "test": "N/A",
-      "odi": 5.24,
-      "t20i": 8.19
+      "test": 2.54,
+      "odi": 5.15,
+      "t20i": 8.08
     },
     "runs": {
-      "test": 0,
-      "odi": 27,
-      "t20i": 9
+      "test": 4,
+      "odi": 127,
+      "t20i": 50
     },
     "highestScore": {
-      "test": "N/A",
-      "odi": 8,
-      "t20i": 4
+      "test": 0,
+      "odi": 25,
+      "t20i": 22
     },
     "iccRanking": {
-      "test": "N/A",
-      "odi": 13,
-      "t20i": 9
+      "test": 34,
+      "odi": 10,
+      "t20i": 2
     },
     "debut": {
-      "test": "N/A",
-      "odi": "2016-06-11",
-      "t20i": "2016-06-18"
+      "test": "2016-03-02",
+      "odi": "2013-06-11",
+      "t20i": "2016-06-21"
     },
     "homeState": "Haryana",
     "iplTeam": "Rajasthan Royals",
-    "jerseyNumber": 3
-  },
-  {
-    "id": 15,
-    "name": "Yashasvi Jaiswal",
-    "age": 22,
-    "role": "Batsman",
-    "battingStyle": "Left-handed",
-    "bowlingStyle": "Right-arm leg break",
-    "matches": {
-      "test": 13,
-      "odi": 3,
-      "t20i": 20
-    },
-    "runs": {
-      "test": 1028,
-      "odi": 65,
-      "t20i": 502
-    },
-    "highestScore": {
-      "test": 214,
-      "odi": 25,
-      "t20i": 84
-    },
-    "centuries": {
-      "test": 3,
-      "odi": 0,
-      "t20i": 0
-    },
-    "wickets": {
-      "test": 0,
-      "odi": 0,
-      "t20i": 0
-    },
-    "iccRanking": {
-      "test": 16,
-      "odi": 76,
-      "t20i": 13
-    },
-    "debut": {
-      "test": "2023-07-12",
-      "odi": "2023-12-21",
-      "t20i": "2023-01-03"
-    },
-    "homeState": "Uttar Pradesh",
-    "iplTeam": "Rajasthan Royals",
-    "jerseyNumber": 19
+    "jerseyNumber": 23
   }
 ]
