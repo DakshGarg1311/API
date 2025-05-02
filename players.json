@@ -236,56 +236,6 @@
     "jerseyNumber": 1
   },
   {
-    "id": 6,
-    "name": "Ravichandran Ashwin",
-    "age": 38,
-    "role": "All-rounder",
-    "battingStyle": "Right-handed",
-    "bowlingStyle": "Right-arm off break",
-    "matches": {
-      "test": 99,
-      "odi": 113,
-      "t20i": 65
-    },
-    "wickets": {
-      "test": 499,
-      "odi": 151,
-      "t20i": 72
-    },
-    "bestBowling": {
-      "test": "7/59",
-      "odi": "4/25",
-      "t20i": "4/8"
-    },
-    "runs": {
-      "test": 3271,
-      "odi": 707,
-      "t20i": 207
-    },
-    "highestScore": {
-      "test": 124,
-      "odi": 65,
-      "t20i": 31
-    },
-    "centuries": {
-      "test": 5,
-      "odi": 0,
-      "t20i": 0
-    },
-    "iccRanking": {
-      "test": 2,
-      "odi": 25,
-      "t20i": 28
-    },
-    "debut": {
-      "test": "2011-11-06",
-      "odi": "2010-06-05",
-      "t20i": "2010-06-12"
-    },
-    "homeState": "Tamil Nadu",
-    "iplTeam": "Rajasthan Royals",
-    "jerseyNumber": 99
-  },
   {
     "id": 7,
     "name": "Hardik Pandya",
