@@ -6,7 +6,7 @@
     "role": "Batsman",
     "battingStyle": "Right-handed",
     "bowlingStyle": "Right-arm medium",
-    "image" : "./images/Virat_Kohli.avif",
+    "image" : "https://documents.bcci.tv/resizedimageskirti/164_compress.png",
     "matches": {
       "test": 113,
       "odi": 292,
