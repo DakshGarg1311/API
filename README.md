@@ -21,11 +21,10 @@ You can fetch this directly using JavaScript in any frontend app or testing envi
 
 This API returns a **JSON array** of player objects. Each object contains:
 
-- `player_id` – Unique ID of the player
+- `id` – Unique ID of the player
 - `name` – Full name of the player
-- `batting_avg` – Batting average
-- `bowling_avg` – Bowling average
-- `matches_played` – Total number of matches played
+- `bowlingStyle` – Bowling average
+- `wickets` – Total number of matches played
 - `image_url` – Direct URL to player image
 
 ---
