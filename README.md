@@ -83,7 +83,7 @@ fetch("https://dakshgarg1311.github.io/API/players.json")
 
 ## 📬 Contact
 Have questions, feedback, or want to collaborate?
-📧 Reach out at: thedakshgarg@gmail.com
+📧 Reach out to us at: thedakshgarg@gmail.com
 
 
 Let me know if you want a live preview badge, a React demo snippet, or a table of contents!
