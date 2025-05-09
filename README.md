@@ -68,7 +68,7 @@ fetch("https://dakshgarg1311.github.io/API/players.json")
   .catch(error => {
     console.error("🚨 Error fetching player data:", error);
   });
-```javascript
+```
  
 💡 Features
 ✅ Full player profiles
