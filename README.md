@@ -70,18 +70,18 @@ fetch("https://dakshgarg1311.github.io/API/players.json")
   });
 ```
  
-💡 Features
+##💡 Features
 ✅ Full player profiles
 
-🏏 Batting and bowling stats
+##🏏 Batting and bowling stats
 
-🖼️ Player image URLs
+##🖼️ Player image URLs
 
-⚡ Fast access via static JSON URL
+##⚡ Fast access via static JSON URL
 
-💻 Easy integration with frontend apps
+##💻 Easy integration with frontend apps
 
-📬 Contact
+##📬 Contact
 Have questions, feedback, or want to collaborate?
 📧 Reach out at: thedakshgarg@gmail.com
 
